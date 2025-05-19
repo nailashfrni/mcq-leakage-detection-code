@@ -1,0 +1,17 @@
+peft
+datasets
+pandas
+bitsandbytes
+tqdm
+rouge-score
+openai
+editdistance
+numpy
+python-dotenv
+scikit-learn
+matplotlib
+matplotlib_venn
+venny4py
+google-generativeai==0.8.3
+anthropic
+seaborn
